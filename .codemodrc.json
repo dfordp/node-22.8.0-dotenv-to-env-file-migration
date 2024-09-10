@@ -9,8 +9,9 @@
     "tags": [
       "node",
       "22.8.0",
-      "enable",
-      "compile cache"
+      "dotenv",
+      "-env-file",
+      "migration"
     ],
     "git": "https://github.com/dfordp/node-22.8.0-dotenv-to-env-file-migration"
   }
